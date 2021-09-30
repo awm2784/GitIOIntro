@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Andrew Moulton</h1>
+<p>I went to Webster Schroeder High School in Rochester, NY. I enjoy hiking and playing video games with my friends.</p>
+<p>My favorite food is pizza.</p>
+<img src="https://images.theconversation.com/files/298628/original/file-20191024-170462-1hyjuz0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop" alt="pizza">
+<a href="http://www.se.rit.edu/~swen-101">SE Course Website</a>
+<p>From this course I want to learn:</p>
+<ul>
+  <li>How to effectively work on a team of software engineers</li>
+  <li>How to do good planning that will reduce errors when coding</li>
+  <li>What the differences are between SE and other similar courses</li>
+</ul>
+</body>
+</html>
